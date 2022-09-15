@@ -1,0 +1,14 @@
+.grid-container{
+    display: grid;
+    
+}
+.journey-container{
+    background-color: beige;
+    min-height: 200px;
+    border: 2px solid black;
+}
+.grid-item{
+justify-content: center;
+margin: auto;
+
+}
