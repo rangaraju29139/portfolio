@@ -1,10 +1,7 @@
-.grid-container{
+
+.banner-container{
     display: grid;
-    grid-template-columns: 1fr;
-}
-.grid-item{
-    display: grid;
-    width: inherit;
     width: 100vw;
     height: auto;
 }
+

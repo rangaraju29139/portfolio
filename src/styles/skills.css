@@ -1,0 +1,28 @@
+
+.skills-container{
+    grid-template-columns: repeat(4,1fr);
+    gap: 1rem;
+    padding: 10px 20px;
+    border: 2px solid black;
+}
+.skills-item{
+    display: inline-grid;
+    position: relative;
+        
+}
+.skills-item img{
+    display: inline-grid;
+    height: inherit;
+    max-height: 100px;
+    justify-content: center;
+    margin: auto;
+
+}
+.skill-item-name{
+    justify-content: center;
+}
+.skills-item p{
+    justify-content: center;
+    display: grid;
+    text-align: center;
+}
