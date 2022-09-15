@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.370da4c6.css",
+    "main.js": "/portfolio/static/js/main.045208b3.js",
+    "static/media/banner-image.png": "/portfolio/static/media/banner-image.28e04090f993a455073f.png",
+    "static/media/linux-logo.png": "/portfolio/static/media/linux-logo.219ea3a3dff10f6f155a.png",
+    "static/media/css-logo.png": "/portfolio/static/media/css-logo.e9d28f9786a12afee875.png",
+    "static/media/javascript-logo.png": "/portfolio/static/media/javascript-logo.4639c895c33d52eebeff.png",
+    "static/media/mongodb-logo.png": "/portfolio/static/media/mongodb-logo.57b7b6f1419e52a57f9b.png",
+    "static/media/ansible-logo.png": "/portfolio/static/media/ansible-logo.474ab856e405fde7e235.png",
+    "static/media/node-js-logo.png": "/portfolio/static/media/node-js-logo.20d4263f29baf2e28f42.png",
+    "static/media/react-logo.png": "/portfolio/static/media/react-logo.f3e576ba08e6be927148.png",
+    "static/media/bootstrap-logo.png": "/portfolio/static/media/bootstrap-logo.023751a9ed8238182851.png",
+    "static/media/java-logo.png": "/portfolio/static/media/java-logo.464af9963a07a4d238d7.png",
+    "static/media/express-logo.png": "/portfolio/static/media/express-logo.70ef50a246c3bfa93f0b.png",
+    "static/media/python-logo.png": "/portfolio/static/media/python-logo.04ddea1b43164f05b756.png",
+    "index.html": "/portfolio/index.html",
+    "main.370da4c6.css.map": "/portfolio/static/css/main.370da4c6.css.map",
+    "main.045208b3.js.map": "/portfolio/static/js/main.045208b3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.370da4c6.css",
+    "static/js/main.045208b3.js"
+  ]
+}
